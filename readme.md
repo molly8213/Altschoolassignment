@@ -1,4 +1,3 @@
-#!/bin/bash
 
 #This is a script to execute assignment given in class
 
